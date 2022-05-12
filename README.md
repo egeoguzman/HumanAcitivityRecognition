@@ -4,3 +4,16 @@ The use of wireless sensors to track physical ac- tivity can help determine a pe
 Dataset is accessible at https://archive.ics.uci.edu/ml/datasets/pamap2+physical+activity+monitoring
 <br>
 For more information check out the report in repo.
+
+MapReduce MRJobs available in jobs folder:
+<ul>
+  <li>Pearson Correlation</li>
+  <li>Covariance Matrix</li>
+  <li>Mean</li>
+  <li>MinMax</li>
+  <li>Standard Deviation</li>
+  <li>Kurtosis</li>
+  <li>Skewness</li>
+  <li>Median</li>
+  <li>Variance</li>
+</ul>
